@@ -1,6 +1,6 @@
 # master-data-science
 
-Primer dia de clase del Master de Data Science todo
+Primer dia de clase del Master de Data Science todo o nada
 
 La introducción a Git está siendo interesante
 
